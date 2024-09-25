@@ -42,4 +42,5 @@
 
 .box.div-2 {
    overflow: scroll;
+   height: 50px;
 }
