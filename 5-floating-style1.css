@@ -1,0 +1,45 @@
+.box {
+   border: 5px solid yellow;
+   background: pink;
+   margin: 10px;
+   padding: 10px;
+}
+
+.float {
+   padding: 10px;
+}
+
+.float-1 {
+   background: bisque;
+   border: 5px solid gray;
+}
+
+.float-2 {
+   background: cornsilk;
+   border: 5px solid darkgray;
+}
+
+.float-3 {
+   background: burlywood;
+   border: 5px solid blanchedalmond;
+}
+
+.float-1 {
+   float: left;
+}
+
+.float-2 {
+   float: right;
+}
+
+.float-3 {
+   float: left;
+}
+
+.float-3 {
+   clear: left;
+}
+
+.box.div-2 {
+   overflow: auto;
+}
