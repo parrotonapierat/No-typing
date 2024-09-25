@@ -41,5 +41,5 @@
 }
 
 .box.div-2 {
-   overflow: auto;
+   overflow: scroll;
 }
