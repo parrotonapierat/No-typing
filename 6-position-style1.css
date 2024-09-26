@@ -46,7 +46,7 @@
 .box-a {
    border-color: lightblue;
    background: lightcyan;
-   z-index: 1;
+   z-index: 3;
 }
 
 .box-b {
@@ -54,7 +54,7 @@
    background: lightgray;
    top: -90px;
    left: 90px;
-   z-index: 1;
+   z-index: 2;
 }
 
 .box-c {
