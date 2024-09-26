@@ -54,7 +54,7 @@
    background: lightgray;
    top: -90px;
    left: 90px;
-   z-index: 2;
+   z-index: 5;
 }
 
 .box-c {
